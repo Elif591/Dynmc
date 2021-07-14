@@ -1,0 +1,15 @@
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csprojAssemblyReference.cache
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+C:\Users\elifv\source\repos\Dynamic\Dynamic\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CopyComplete
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
+C:\Users\elifv\source\repos\Dynamic\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.genruntimeconfig.cache
